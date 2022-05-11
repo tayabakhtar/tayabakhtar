@@ -1,4 +1,5 @@
-# Hi there, I'm Tayab <img width="30px" src="https://github.com/tayabakhtar/blob/main/waving-hand-joypixels (1).gif" />
+# Hi there, I'm Tayab <img width="30px" src="https://github.com/tayabakhtar/tayabakhtar/blob/main/waving-hand-joypixels (1).gif" />
+
 
 <img align="right" alt="GIF" height="200px" width="300px" src="https://github.com/tayabakhtar/tayabakhtar/blob/main/giphy.gif" />
 
