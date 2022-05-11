@@ -16,7 +16,7 @@
 
 ## ⚡ GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=samraasif834&theme=synthwave" />
-<img src="https://github-readme-stats.vercel.app/api?username=samraasif834&show_icons=true&count_private=true&theme=synthwave" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samraasif834&layout=compact&count_private=true&theme=synthwave" />
-<img src="https://activity-graph.herokuapp.com/graph?username=samraasif834&theme=synthwave-84" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tayabakhtar&theme=highcontrast" />
+<img src="https://github-readme-stats.vercel.app/api?username=stayabakhta&show_icons=true&count_private=true&theme=highcontrast" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayabakhta&layout=compact&count_private=true&theme=highcontrast" />
+<img src="https://activity-graph.herokuapp.com/graph?username=tayabakhta&theme=highcontrast" />
