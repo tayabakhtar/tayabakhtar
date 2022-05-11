@@ -1,6 +1,8 @@
-# Hi there, I'm Tayab <img width="30px" src="https://github.com/samraasif834/samraasif834/blob/main/waving-hand-joypixels.gif" />
+# Hi there, I'm Tayab <img width="30px" src="https://github.com/
+tayabakhtar/
+tayabakhtar/blob/main/waving-hand-joypixels.gif" />
 
-<img align="right" alt="GIF" height="200px" width="300px" src="https://github.com/samraasif834/samraasif834/blob/main/d4tvukbt5mra37cvwklk%20(1).gif" />
+<img align="right" alt="GIF" height="200px" width="300px" src="https://github.com/samraasif834/samraasif834/blob/main/giphy.gif" />
 
 - 👨‍💻 I’m currently working on technologies like Blockchain
 
