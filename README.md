@@ -16,7 +16,7 @@
 
 ## ⚡ GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tayabakhtar&theme=highcontrast" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tayabakhtar&theme=javascript-dark" />
 <img src="https://github-readme-stats.vercel.app/api?username=tayabakhtar&show_icons=true&count_private=true&theme=highcontrast" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayabakhtar&layout=compact&count_private=true&theme=highcontrast" />
 <img src="https://activity-graph.herokuapp.com/graph?username=tayabakhtar&theme=elegant" />
